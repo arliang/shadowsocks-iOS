@@ -1,24 +1,24 @@
 [submodule "AppProxyCap"]
 	path = AppProxyCap
-	url = https://github.com/freewizard/AppProxyCap.git
+	url = https://github.com/freewizard/AppProxyCap
 [submodule "OpenSSL-for-iPhone"]
 	path = OpenSSL-for-iPhone
-	url = git://github.com/clowwindy/OpenSSL-for-iPhone.git
+	url = https://github.com/clowwindy/OpenSSL-for-iPhone
 [submodule "GCDWebServer"]
 	path = GCDWebServer
 	url = https://github.com/swisspol/GCDWebServer
 [submodule "iProxy"]
 	path = iProxy
-	url = https://github.com/clowwindy/iProxy.git
+	url = https://github.com/clowwindy/iProxy
 [submodule "NSData-Base64"]
 	path = NSData-Base64
-	url = https://github.com/l4u/NSData-Base64.git
+	url = https://github.com/l4u/NSData-Base64
 [submodule "GZIP"]
 	path = GZIP
-	url = https://github.com/nicklockwood/GZIP.git
+	url = https://github.com/nicklockwood/GZIP
 [submodule "Masonry"]
 	path = Masonry
-	url = git@github.com:Masonry/Masonry.git
+	url = https://github.com/Masonry/Masonry
 [submodule "AFNetworking"]
 	path = AFNetworking
-	url = git@github.com:AFNetworking/AFNetworking.git
+	url = https://github.com/AFNetworking/AFNetworking
